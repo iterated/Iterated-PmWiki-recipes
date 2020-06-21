@@ -1,2 +1,3 @@
 # Iterated-PmWiki-recipes
-Recipes for PmWIki
+Recipes for PmWiki - https://pmwiki.org
+
